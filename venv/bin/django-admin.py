@@ -1,4 +1,4 @@
-#!/home/dung/Documents/django_test/venv/bin/python
+#!/home/gem-dung/Documents/up/venv/bin/python3
 from django.core import management
 
 if __name__ == "__main__":
